@@ -1,0 +1,7 @@
+[client]
+toolbarMode = "minimal"
+
+[server]
+headless = true
+runOnSave = true
+fileWatcherType = "poll"
